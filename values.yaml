@@ -248,7 +248,7 @@ rna:
     replicas: 2
     resources:
       requests:
-        memory: "1Gi"
+        memory: "1.15Gi"
   rna_utils:
     image:
       pullPolicy: "IfNotPresent"
